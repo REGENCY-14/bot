@@ -1,4 +1,4 @@
 streamlit
 langchain-google-genai
 langchain-community
-faiss-cpu
+faiss-cpu=<1.9.0.post1>
